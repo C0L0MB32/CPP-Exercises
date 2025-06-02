@@ -1,6 +1,6 @@
 # CPP-Exercises
 
-welcome, this repository contains a collection of **C++ Programming Exercises**, organied by difficulty: **Easy, Medium, and Advanced**.
+Welcome, this repository contains a collection of **C++ Programming Exercises**, organied by difficulty: **Easy, Medium, and Advanced**.
 
 The first goal is for me to learn and become an expert in this languaje, and the second one is to help students and self-learners a place to find challenges to try an practice.
 
