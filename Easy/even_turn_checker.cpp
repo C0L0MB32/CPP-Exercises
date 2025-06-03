@@ -1,3 +1,9 @@
+/*
+Context: In a turn-based game, some characters can only take action on even-numbered turns.
+Your Task: Write a program that asks for the current turn number (as an integer), and prints whether it’s an “Action Turn” or a “Wait Turn.”
+Goal: Learn how to use conditional logic and the modulus operator.
+*/
+
 #include<iostream>
 
 using namespace std;

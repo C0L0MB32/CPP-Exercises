@@ -1,3 +1,9 @@
+/*
+Context: You’re building a basic weather alert system for a greenhouse. If the temperature falls below 10°C or goes above 35°C, it should trigger an alert.
+Your Task: Ask the user to input the current temperature, then print either “Temperature is safe” or “ALERT: Temperature out of range!”
+Goal: Practice if-else logic and working with thresholds.
+*/
+
 #include<iostream>
 
 using namespace std;
