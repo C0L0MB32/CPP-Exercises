@@ -8,21 +8,21 @@ Here, you'll find beginner-friendly coding challenges that are not just about sy
 
 ## ✅ Current Challenges (with context)
 
-### 1. 🧮 `basic_addition_tool.cpp`  
+### 1. 🧮 [`basic_addition_tool.cpp`](./basic_addition_tool.cpp) 
 **Context**: You're helping develop a budgeting app for students. The first requirement is a feature that lets users add two expenses together and see the total cost.  
 **Your Task**: Ask the user for two floating-point numbers (to represent prices), then print the sum with two decimal places, labeled clearly.  
 **Goal**: Practice using `float` and formatted output.
 
 ---
 
-### 2. 🎮 `even_turn_checker.cpp`  
+### 2. 🎮 [`even_turn_checker.cpp`](./even_turn_checker.cpp) 
 **Context**: In a turn-based game, some characters can only take action on even-numbered turns.  
 **Your Task**: Write a program that asks for the current turn number (as an integer), and prints whether it’s an “Action Turn” or a “Wait Turn.”  
 **Goal**: Learn how to use conditional logic and the modulus operator.
 
 ---
 
-### 3. 🧯 `temperature_alert.cpp`  
+### 3. 🧯 [`temperature_alert.cpp`](./temperature_alert.cpp)
 **Context**: You’re building a basic weather alert system for a greenhouse. If the temperature falls below 10°C or goes above 35°C, it should trigger an alert.  
 **Your Task**: Ask the user to input the current temperature, then print either “Temperature is safe” or “ALERT: Temperature out of range!”  
 **Goal**: Practice `if-else` logic and working with thresholds.
