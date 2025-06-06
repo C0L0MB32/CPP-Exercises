@@ -29,14 +29,14 @@ Here, you'll find beginner-friendly coding challenges that are not just about sy
 
 ---
 
-### 4. 🔐 `login_simulator.cpp`  
+### 4. 🔐 [`login_simulator.cpp`](./login_simulator.cpp)
 **Context**: A simple login interface is needed for an internal tool. Only one user (“admin”) with password “1234” is allowed.  
 **Your Task**: Ask for a username and password. If both match, print “Access granted.” Otherwise, print “Invalid credentials.”  
 **Goal**: Work with `string` comparison and `cin`.
 
 ---
 
-### 5. 🧠 `mental_math_timer.cpp`  
+### 5. 🧠 [`mental_math_timer.cpp` ](./mental_math_timer.cpp)
 **Context**: You’re building a mini-game for a brain training app. It presents users with simple random additions to solve under mental pressure.
 **Your Task**: Generate two random integers between 10 and 99. Display them and ask the user to type the result. Check if the answer is correct.  
 **Bonus**: Use `ctime` and `cstdlib` for randomness.  
